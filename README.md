@@ -2,7 +2,7 @@
 
 
 # Mekanbul replit adresi (odev8)
-[http://localhost:3000/?enlem=37.83226584629666&boylam=30.524732239878013](http://localhost:3000/?enlem=37.83226584629666&boylam=30.524732239878013)
+[https://mekanbul.talhakucukoner.repl.co/?enlem=37.83226584629666&boylam=30.524732239878013](https://mekanbul.talhakucukoner.repl.co/?enlem=37.83226584629666&boylam=30.524732239878013)
 
 Api Collections Test![Alt text](pictures/Api%20Collections%20Test.png)
 
